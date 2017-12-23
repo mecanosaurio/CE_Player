@@ -1,0 +1,9 @@
+ofxCv
+ofxDelaunay
+ofxGui
+ofxImageSegmentation
+ofxImageSequenceRecorder
+ofxJSON
+ofxOpenCv
+ofxOsc
+ofxXmlSettings
